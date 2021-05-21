@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert To Word", "Convert To Word\Convert To Word.csproj", "{3C0E7C96-E57C-4267-BC64-7AEB7A1B3F65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C0E7C96-E57C-4267-BC64-7AEB7A1B3F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0E7C96-E57C-4267-BC64-7AEB7A1B3F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0E7C96-E57C-4267-BC64-7AEB7A1B3F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0E7C96-E57C-4267-BC64-7AEB7A1B3F65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7779D4B-5DF5-46A1-A200-C9F57D9DC581}
+	EndGlobalSection
+EndGlobal
